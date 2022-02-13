@@ -1,7 +1,6 @@
-# My-Code_For-ASTIS-Week-3
-Universal Artificial Intelligence Diploma, lectured by God Bennett
+# Universal Artificial Intelligence Diploma, lectured by God Bennett
 
-Week3-Convolutional neural network-Submission-Sample
+# Week3-Convolutional neural network-Submission-Sample
 
 
 Solution is:
