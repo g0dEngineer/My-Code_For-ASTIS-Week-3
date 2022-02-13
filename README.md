@@ -1,6 +1,7 @@
 # My-Code_For-ASTIS-Week-3
-My-Code_For-ASTIS-Week-3 Convolutional neural network to do disease diagnosis
+Universal Artificial Intelligence Diploma, lectured by God Bennett
 
+Week3-Convolutional neural network-Submission-Sample
 
 
 Solution is:
