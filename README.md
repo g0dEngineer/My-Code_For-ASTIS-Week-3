@@ -1,6 +1,6 @@
 # Universal Artificial Intelligence Diploma, lectured by God Bennett
 
-# Week3-Convolutional neural network-Submission-Sample
+# Week3-Convolutional Neural Network-Submission-Sample
 
 
 Solution is:
